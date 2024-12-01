@@ -1,0 +1,31 @@
+{
+  "name": "dom-keeper",
+  "version": "1.0.0",
+  "description": "A library to manage and manipulate DOM elements efficiently",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ITSawa/dom-keeper.git"
+  },
+  "keywords": [
+    "DOM",
+    "HTML",
+    "JavaScript",
+    "elements",
+    "manipulation",
+    "manipulate",
+    "DOM Keeper",
+    "dom keeper",
+    "dom keeper library"
+  ],
+  "author": "Savva `ITSawa`",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ITSawa/dom-keeper/issues"
+  },
+  "homepage": "https://github.com/ITSawa/dom-keeper#readme",
+  "type": "module"
+}
