@@ -81,12 +81,4 @@ All library functions work only with valid HTML elements.
 Using checkHtmlElement helps avoid errors when creating elements.
 License
 MIT
-
-sql
-
-
-### Explanation:
-- The structure follows the same logic, with headings (`#`, `##`) used to organize the content.
-- Key parts like function descriptions, parameters, and examples are translated to English.
-- Code examples are unchanged except for language adjustments where necessary.
 ```
